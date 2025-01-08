@@ -1,2 +1,2 @@
 console.log(3+3);
-console.log(typeof undefined)
+console.log(typeof undefined);
